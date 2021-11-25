@@ -13,5 +13,6 @@ public class DemoOne {
 		int result = a + b;
 		System.out.println(result);
 		System.out.println("****************");
+		System.out.println("GitHub to Eclipse");
 }
 }
