@@ -9,4 +9,7 @@ public class DemoOne {
 		System.out.println("Random Change...");
 	}
 	//RANDOM Comments...
+	public static void addNum(int a, int b) {
+		int result = a + b;
+		System.out.println(result);
 }
